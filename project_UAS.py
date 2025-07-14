@@ -2,7 +2,7 @@
 # Kelompok
 # Yoga Andika Putra (24241163)
 # Azizah fitria (24241174)
-# Frigio pattipeilohy
+# Frigio pattipeilohy (24241165)
 # =======================================================
 
 def meet1():
@@ -11,7 +11,7 @@ def meet1():
     print("# b = 2 digit NIM terakhir")
 
     a = 24
-    b = 63
+    b = 74
 
     print(f"\na = {a}")
     print(f"b = {b}")
